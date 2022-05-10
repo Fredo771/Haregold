@@ -1,3 +1,4 @@
 this is the second file.
 fast-merge
 not so fast
+not skipping a line
